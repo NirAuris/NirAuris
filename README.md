@@ -1,4 +1,4 @@
-### Hi there 👋
+Watch out, there is a Flower in the distance. Make your weapons ready, this rainbow world is filled with danger.
 
 <!--
 **NirAuris/NirAuris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
